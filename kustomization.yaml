@@ -9,4 +9,3 @@ generatorOptions:
 resources:
   - api-domain-tls.yaml.yaml
   - api-domain-tls-cert.yaml
-  - patch-api-server.yaml
