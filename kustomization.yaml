@@ -7,5 +7,5 @@ generatorOptions:
   disableNameSuffixHash: true
 
 resources:
-  - api-domain-tls.yaml.yaml
+  - api-domain-tls.yaml
   - api-domain-tls-cert.yaml
