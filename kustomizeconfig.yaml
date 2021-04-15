@@ -8,6 +8,7 @@ nameReference:
 varReference:
 - path: spec/subject/organizations
   kind: Certificate
+  apiVersion: cert-manager/v1
 - path: spec/dnsNames
   kind: Certificate
   apiVersion: cert-manager/v1
